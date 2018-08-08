@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="yellow">#EDC809</color>
+    <color name="bottom_text_color">#303237</color><!--48 50 55-->
+    <color name="black_transparent1">#80000000</color>
+    <color name="gray">#999999</color>
+    <color name="design_divider_line">#EDEDED</color>
+</resources>

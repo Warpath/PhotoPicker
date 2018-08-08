@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="toolbar.textAction.textColor" format="reference|color"/>
+    <attr name="bottomToolbar.allImage.textColor" format="reference|color"/>
+    <attr name="bottomToolbar.allImage.spinnerDrawable" format="reference"/>
+    <attr name="bottomToolbar.imageNum.textColor" format="reference|color"/>
+    <attr name="chooseAlbum.menu.conformDrawable" format="reference"/>
+    <attr name="chooseAlbum.menu.placeHolderDrawable" format="reference"/>
+    <attr name="chooseAlbum.menu.albumBackground" format="reference"/>
+    <attr name="chooseImage.item.checkboxDrawable" format="reference"/>
+    <attr name="fullScreen.image.placeHolderDrawable" format="reference"/>
+</resources>

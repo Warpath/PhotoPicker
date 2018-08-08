@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/iv_image"
+        android:layout_width="@dimen/hm_iv_image_width"
+        android:layout_height="@dimen/hm_iv_image_width"
+        android:scaleType="centerCrop"/>
+
+    <ImageView
+        android:id="@+id/iv_checkbox"
+        android:layout_width="@dimen/hm_iv_select_pic_width"
+        android:layout_height="@dimen/hm_iv_select_pic_height"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginRight="@dimen/hm_chooseimage_checkbox_margin_top_right"
+        android:layout_marginTop="@dimen/hm_chooseimage_checkbox_margin_top_right"
+        android:src="?attr/chooseImage.item.checkboxDrawable"/>
+
+</RelativeLayout>

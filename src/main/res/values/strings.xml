@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PhotoPicker</string>
+    <string name="title_photo_picker">选择照片</string>
+
+    <string name="hm_save">保存</string>
+    <string name="hm_text_all_image">所有照片</string>
+    <string name="hm_text_album_num">%d张</string>
+    <string name="hm_toast_reach_max_select_num">最多只能选取%d张图片</string>
+    <string name="hm_title_selected_num">已选择%d张</string>
+    <string name="hm_choose_image_finish">完成</string>
+    <string name="hm_select_pic_count" formatted="false">%d/%d</string>
+    <string name="need_read_external_storage_permission">需要您授权访问内部存储</string>
+    <string name="permission_no">不授权</string>
+    <string name="permission_yes">授权</string>
+</resources>

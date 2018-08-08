@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="hm_id_choose_image_position" type="id"></item>
+    <item name="hm_id_choose_image_viewholder" type="id"></item>
+    <item name="hm_id_choose_image_position_real" type="id"></item>
+</resources>

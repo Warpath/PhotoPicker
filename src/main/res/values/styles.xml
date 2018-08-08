@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="hm_pwChooseAlbumAnim">
+        <item name="android:windowEnterAnimation">@anim/hm_pw_choose_album_in</item>
+        <item name="android:windowExitAnimation">@anim/hm_pw_choose_album_out</item>
+    </style>
+
+    <style name="PhotoPicker_Health" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="toolbar.textAction.textColor">@color/yellow</item>
+        <item name="bottomToolbar.allImage.textColor">@color/yellow</item>
+        <item name="bottomToolbar.allImage.spinnerDrawable">@drawable/hm_album_spinner</item>
+        <item name="bottomToolbar.imageNum.textColor">@color/bottom_text_color</item>
+        <item name="chooseAlbum.menu.conformDrawable">@drawable/hm_menu_conform</item>
+        <item name="chooseAlbum.menu.placeHolderDrawable">@drawable/hm_bg_chooseimage_default</item>
+        <item name="chooseAlbum.menu.albumBackground">@drawable/hm_bg_album</item>
+        <item name="chooseImage.item.checkboxDrawable">@drawable/hm_icon_checkbox_selector</item>
+        <item name="fullScreen.image.placeHolderDrawable">@drawable/hm_bg_chooseimage_default</item>
+    </style>
+</resources>
